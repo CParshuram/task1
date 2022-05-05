@@ -1,0 +1,14 @@
+body {
+  background-color: skyblue;
+  text-align: center;
+  font-style: normal;
+}
+h1 {
+  color :Brown;
+  font-size: 50px;
+  font-family: sans-serif;
+}
+h3 {
+  color:Green;
+  font-size: 30px;
+}
